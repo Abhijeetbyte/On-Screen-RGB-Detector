@@ -1,30 +1,28 @@
-import keyboard
 import pyautogui
-print(1 * '\n') #Two Blanks lines
+print('\n') #blank line
 
 print("             ON-SCREEN RGB COLOR DETECTOR          ")
 
-print(2 * '\n') #Three Blanks lines)
+print('\n')
 
-print(" R,G,B = 255,255,255   #Absolute White ")
+print(""" R,G,B = 255,255,255   #Absolute White
 
-print(" R,G,B =   0,  0,  0   #Absolute Black",)
+ R,G,B =   0,  0,  0   #Absolute Black """)
 
-print(1 * '\n')
+print('\n')
 
-print("  Respectively For All Colors :" , '\n')
+print(""" Respectively For All Colors :
 
-print(" R or G or B is (255, Represent Maximum Amount of that Color )", '\n')
+ R or G or B is (255, Represent Maximum Amount of that Color )
 
-print(" R or G or B is (  0, Represent Minimum Amount Of that Color )")
+ R or G or B is (  0, Represent Minimum Amount Of that Color )""")
 
-print(2 * '\n')
+print('\n')
 
-print("              'Press Space Key To Start'")
+close=str(input("      --------- PRESS ENTER TO START ---------"))
 
-print(1 * '\n')#One blank line
-while True:
-     if keyboard.is_pressed('space'):
-         print('[Cursor Coordinates]  [ RGB Values ]')
-         print('                                         #', end='')
-         print( pyautogui.displayMousePosition() )
+print('\n')
+
+print('[Cursor Coordinates]  [ RGB Values ]')
+print('                                         #', end='')
+print( pyautogui.displayMousePosition() )
