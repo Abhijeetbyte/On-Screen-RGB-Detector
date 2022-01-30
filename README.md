@@ -29,4 +29,4 @@ Prerequisites:
 
 Copyright © Abhijeet kumar. All rights reserved.
 
-Licensed under the [MIT License.](https://github.com/4BH1J337/Volume-Calculator/blob/main/LICENSE)
+Licensed under the [MIT License.](LICENSE)
