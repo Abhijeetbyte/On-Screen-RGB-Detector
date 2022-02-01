@@ -18,9 +18,9 @@ Prerequisites:
 * Application Size : 13.5 MB
 
 ### Program Execution
-![after installation icon](after-installation1.png)
+![after installation icon](Images/after-installation1.png)
 
-![Running](input%20and%20output1.png)
+![Running](Images/input%20and%20output1.png)
 #
 
 * Two buttons were embedded (i) To start the programme or to show RGB values with coordinate (ii) To stop the programme temporarily, since the measurement is taken every 3 seconds, so user can note down the readings of any specific pixel
