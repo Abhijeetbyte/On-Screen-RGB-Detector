@@ -34,4 +34,4 @@ Prerequisites:
 
 Copyright © Abhijeet kumar. All rights reserved.
 
-Licensed under the [MIT License.](LICENSE)
+Licensed under the [CC0-1.0 License.](LICENSE)
