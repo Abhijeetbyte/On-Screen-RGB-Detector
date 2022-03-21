@@ -59,7 +59,7 @@ def open_link(*args): #function binded to clickable hyperlink label
 L0=Label(root,font=('Helvetica',15,'bold'),text="ON-SCREEN RGB COLOR DETECTOR ", borderwidth=3, relief="raised",justify=CENTER,bg="#FFDA2F",width=100) #Font Size/style, bg color (Head Label)
 L0.pack(padx=2)
 
-L4=Label(text="Point your mouse circure and \n\npress 'C' on keyboard to capture ",font=('Helvetica',12,'bold'),bg="white") #instruction label
+L4=Label(text="Point your mouse cursor and \n\npress 'C' on keyboard to capture ",font=('Helvetica',12,'bold'),bg="white") #instruction label
 L4.place(x=60,y=350) #Text, FontSize/style, bg color, Location
 
 L5=Label(root,text=' \u24D8 About ', fg='lightblue', font=('Helvetica',12,'bold'), borderwidth=0.5, relief="sunken",bg="white") # open link (text label)
