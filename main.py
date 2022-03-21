@@ -12,7 +12,7 @@ root.title("On-Screen RGB Color Detector ") #Title bar
 root.configure(background='white')
 
 # Creating object of photoimage class
-p1= PhotoImage(file = 'RGBwincon.png')
+p1= PhotoImage(file = 'Images/RGBwincon.png')
 root.iconphoto(False, p1)# Setting icon of master window
 
 
