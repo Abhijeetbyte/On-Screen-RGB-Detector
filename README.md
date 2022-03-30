@@ -34,7 +34,7 @@ Prerequisites:
 * Application Size : 25.5 MB
 
 ### Program Execution 
-![after installation icon](Images/after-installation1.png)
+
 
 ![Running](Images/opening.png)
 ![input-output](Images/captured-value.png)
