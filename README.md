@@ -7,7 +7,7 @@ It measures the RGB colour value of **every single pixel** present on your compu
 Application is built using Python programing language (3.10) and Tkinter framework for Graphical User Interface (GUI).
 
 
-# Working 💻
+# Working ⚙️
 
 **R, G, B = 255, 255, 255**  ***(Absolute white)***</br>
 
