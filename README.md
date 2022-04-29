@@ -27,11 +27,29 @@ Represent **Maximum** amount of that color</br>
 * RGB values are automatically copied to clipboard
 
 # Getting started
+
+<!-- Badge section -->
+![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?style=plastic)
+![repo-size](https://img.shields.io/github/repo-size/abhijeetbyte/On-Screen-RGB-Detector?style=plastic)
+![Languages](https://img.shields.io/badge/Python-FFD43B?plastic&logo=python&logoColor=blue)
+![OS](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+
+
+
 Prerequisites:
 
-* Your computer must be running **Windows** 10 or newer.
-* Install the latest version of Application. **[Download v1.2](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)**
-* Application Size : 25.5 MB
+* Your computer must be running Python3 or newer.
+* The script requires [Tkinter](https://docs.python.org/3/library/tkinter.html) library installed. </br>
+   - open windows shell and run `pip install tk` to install Tkinter library </br>
+* Get the source [code](https://github.com/Abhijeetbyte/On-Screen-RGB-Detector/archive/refs/heads/main.zip)
+
+* Extract the zip and open <b> main.py</b> in Python IDE to build and run the Calculator app.
+
+ .  Windows users can download the binary release
+ 
+* Your computer must be running Windows 10 or newer.
+* Install the latest version of the Application. **[Download v1.2](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)**
+<br>
 
 ### Program Execution 
 
