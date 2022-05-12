@@ -29,8 +29,8 @@ Represent **Maximum** amount of that color</br>
 # Getting started
 
 <!-- Badge section -->
-![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?style=plastic)
-![repo-size](https://img.shields.io/github/repo-size/abhijeetbyte/On-Screen-RGB-Detector?style=plastic)
+[![Releases](https://img.shields.io/badge/Github-Releases-blue)](https://github.com/Abhijeetbyte/On-Screen-RGB-Detector/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?color=green&label=Downloads&style=plastic)](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)
 ![Languages](https://img.shields.io/badge/Python-FFD43B?plastic&logo=python&logoColor=blue)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
