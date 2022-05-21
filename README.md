@@ -37,7 +37,7 @@ Represent **Maximum** amount of that color</br>
 * RGB values are automatically copied to clipboard
 </br>
 
-# Getting started
+# 🚀 Getting started
 
 Prerequisites:
 
