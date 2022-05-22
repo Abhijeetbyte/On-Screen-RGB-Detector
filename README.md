@@ -11,10 +11,10 @@ Application is built using Python programing language (3.10) and Tkinter framewo
 
 <!-- Badge section -->
 [![Releases](https://img.shields.io/badge/Github-Releases-blue)](https://github.com/Abhijeetbyte/On-Screen-RGB-Detector/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?color=green&label=Downloads&style=plastic)](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)
+[![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?label=Downloads)](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)
 [![license](https://img.shields.io/github/license/Abhijeetbyte/On-Screen-RGB-Detector?label=License)](LICENSE)
-[![Languages](https://img.shields.io/badge/Python-FFD43B?plastic&logo=python&logoColor=blue)](main.py)
-[![OS](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)](README.md)
+[![Languages](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue)](main.py)
+[![OS](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)](README.md)
 </br>
 </br>
 
