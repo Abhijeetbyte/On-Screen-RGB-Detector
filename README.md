@@ -1,8 +1,10 @@
 # On Screen RGB Detector
 On-Screen RGB (Red, Green, Blue) Detector is an innovative approach that enables on-screen colour detection with few hand gestures.
 
-However, it is sometimes essential for you to know the picture's RGB values or anything else, then you're in the right place. <br/>
-It measures the RGB colour value of **every single pixel** present on your computer screen **live** by following the position of cursor/mouse pointer with pixel coordinates.<br/>
+
+Sometimes you need to know the RGB value of a picture or anything else, then you are in the right place.
+The On Screen RGB Detector measures the RGB color value of **every single pixel** on your computer screen **live** by following the cursor/mouse pointer position along with the pixel coordinates.</br>
+ 
 Application is built using Python programing language (3.10) and Tkinter framework for Graphical User Interface (GUI).
 </br>
 </br>
@@ -31,13 +33,13 @@ Represent **Maximum** amount of that color</br>
  Represent **Minimum** amount of that color</br>
 
 
-# Features
+## Features
 * Measurement of **RGB** colours by following the position of cursor/mouse pointer with pixel coordinate live
 * Readings are captured by keystrokes for user convenience
 * RGB values are automatically copied to clipboard
 </br>
 
-# 🚀 Getting started
+## 🚀 Getting started
 
 Prerequisites:
 
@@ -46,12 +48,13 @@ Prerequisites:
    - Open Terminal and run `pip install tk` to install Tkinter library </br>
 * Get the source [code](https://github.com/Abhijeetbyte/On-Screen-RGB-Detector/archive/refs/heads/main.zip)
 
-* Extract the zip and open <b> main.py</b> in Python IDE to build and run the Calculator app.
-
- .  Windows users can download the binary release
+* Extract the zip and open <b> main.py</b> in Python IDE to build and run the Calculator app.</br>
+ 
+ 
+  Windows users can download the binary release
  
 * Your computer must be running Windows 10 or newer.
-* Install the latest version of the Application. **[Download v1.2](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)**
+* Install the latest version of the Application. [Download v1.2](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)
 
 </br>
 
@@ -60,7 +63,7 @@ Prerequisites:
 ![Running](Images/opening.png)
 ![input-output](Images/captured-value.png)
 #
-# License
+## License
 
 Copyright © Abhijeet kumar. All rights reserved.
 
