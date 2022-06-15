@@ -1,12 +1,4 @@
 # On Screen RGB Detector
-On-Screen RGB (Red, Green, Blue) Detector is an innovative approach that enables on-screen colour detection with few hand gestures.
-
-
-Sometimes you need to know the RGB value of a picture or anything else, then you are in the right place.
-The On Screen RGB Detector measures the RGB color value of **every single pixel** on your computer screen **live** by following the cursor/mouse pointer position along with the pixel coordinates.</br>
- 
-Application is built using Python programing language (3.10) and Tkinter framework for Graphical User Interface (GUI).
-</br>
 </br>
 
 <!-- Badge section -->
@@ -17,6 +9,15 @@ Application is built using Python programing language (3.10) and Tkinter framewo
 [![OS](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)](README.md)
 </br>
 </br>
+On-Screen RGB (Red, Green, Blue) Detector is an innovative approach that enables on-screen colour detection with few hand gestures.
+Sometimes you need to know the RGB value of a picture or anything else, then you are in the right place.
+The On Screen RGB Detector measures the RGB color value of **every single pixel** on your computer screen **live** by following the cursor/mouse pointer position along with the pixel coordinates.</br>
+ 
+Application is built using Python programing language (3.10) and Tkinter framework for Graphical User Interface (GUI).
+</br>
+</br>
+
+
 
 
 ## Working ⚙️
