@@ -3,10 +3,12 @@
 
 <!-- Badge section -->
 [![Releases](https://img.shields.io/badge/Github-Releases-blue)](https://github.com/Abhijeetbyte/On-Screen-RGB-Detector/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?label=Downloads)](https://github.com/4BH1J337/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)
 [![license](https://img.shields.io/github/license/Abhijeetbyte/On-Screen-RGB-Detector?label=License)](LICENSE)
 [![Languages](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue)](main.py)
 [![OS](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)](README.md)
+
+<!--[![Github All Releases](https://img.shields.io/github/downloads/Abhijeetbyte/On-Screen-RGB-Detector/total?label=Downloads)](https://github.com/abhijeetbyte/On-Screen-RGB-Detector/releases/download/v1.2/On-Screen.RGB.Detector_setup.exe)-->
+
 </br>
 </br>
 On-Screen RGB (Red, Green, Blue) Detector is an innovative approach that enables on-screen colour detection with few hand gestures.
