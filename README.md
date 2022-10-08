@@ -66,6 +66,14 @@ Prerequisites:
 ![Running](Images/opening.png)
 ![input-output](Images/captured-value.png)
 #
+<br/>
+
+## Reporting Issues & Contributions
+
+Feel free to report <b>[issues](https://github.com/Abhijeetbyte/On-Screen-RGB-Detector/issues/new)</b> and <b>contribute</b> to this repository
+
+<br/>
+
 ## License
 
 Copyright © Abhijeet kumar. All rights reserved.
